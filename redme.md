@@ -1,1 +1,1 @@
-zen class day 3 task completed
+zen class day3 task completed
