@@ -1,0 +1,8 @@
+q1. how to compare two JSON have the same properties without order?
+ans : script.js
+
+q2. use the rest of countries API URL and display all the countries flags
+ans : script ,js
+
+q3. use the same countries and print all the region and sub regions
+ans : script.js
